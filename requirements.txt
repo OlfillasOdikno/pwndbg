@@ -7,7 +7,7 @@ pyelftools
 python-ptrace>=0.8
 ROPgadget
 six
-unicorn>=1.0.0
+unicorn>=unicorn-1.0.2rc2
 pygments
 capstone==4.0.1
 enum34
